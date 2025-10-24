@@ -161,10 +161,11 @@ Kontribusi selalu diterima! Silakan:
 ## 📞 Kontak
 
 Jika ada pertanyaan atau saran, silakan hubungi:
-- Email: email@example.com
-- GitHub: [username]
+- Email: hafidrazin73@gmail.com
+- GitHub: Razin907
 - LinkedIn: [profile]
 
 ---
+
 
 **Dibuat dengan ❤️ untuk showcase skill dan pengalaman** 
